@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
