@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0145-binary-tree-postorder-traversal) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0145-binary-tree-postorder-traversal) |
@@ -97,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
