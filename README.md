@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0938-range-sum-of-bst) |
+| [1192-critical-connections-in-a-network](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
