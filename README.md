@@ -287,6 +287,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
