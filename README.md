@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0029-divide-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
