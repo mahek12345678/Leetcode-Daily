@@ -1,30 +1,47 @@
 class Solution {
 public:
-    void dfs(int i, int j, vector<vector<bool>> &vis, vector<vector<char>>& grid, int n, int m){
-        if(i < 0 || j < 0 || i >= n || j >= m || vis[i][j] || grid[i][j] != '1'){
+
+    void dfs(vector<vector<char>>& grid, int r, int c) {
+
+        // Base case: outside grid OR water/already visited
+        if (r < 0 || r >= grid.size() ||
+            c < 0 || c >= grid[0].size() ||
+            grid[r][c] == '0') {
             return;
         }
-        vis[i][j] = true;
-        dfs(i-1, j, vis, grid, n, m); //top
-        dfs(i, j+1, vis, grid, n, m); //right
-        dfs(i+1, j, vis, grid, n, m); //bottom
-        dfs(i, j-1, vis, grid, n, m); //left
+
+        // Mark current land as visited
+        grid[r][c] = '0';
+
+        // Explore all 4 directions
+        dfs(grid, r - 1, c);  // UP
+        dfs(grid, r + 1, c);  // DOWN
+        dfs(grid, r, c - 1);  // LEFT
+        dfs(grid, r, c + 1);  // RIGHT
     }
+
+
     int numIslands(vector<vector<char>>& grid) {
+
+        int rows = grid.size();
+        int cols = grid[0].size();
+
         int islands = 0;
-        int n = grid.size();
-        int m = grid[0].size();
 
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        // Visit every cell
+        for (int r = 0; r < rows; r++) {
+            for (int c = 0; c < cols; c++) {
 
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                if(grid[i][j] == '1' && !vis[i][j]){
-                    dfs(i, j, vis, grid, n, m);
+                // Found a new island
+                if (grid[r][c] == '1') {
                     islands++;
+
+                    // Destroy/visit the entire island
+                    dfs(grid, r, c);
                 }
             }
         }
+
         return islands;
     }
 };
