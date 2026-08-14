@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0733-flood-fill) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -334,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0056-merge-intervals) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
