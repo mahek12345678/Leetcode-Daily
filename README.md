@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
 ## Tree
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -365,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1041-robot-bounded-in-circle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1041-robot-bounded-in-circle) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
