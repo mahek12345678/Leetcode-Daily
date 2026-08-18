@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0057-insert-interval) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0542-01-matrix) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0189-rotate-array) |
