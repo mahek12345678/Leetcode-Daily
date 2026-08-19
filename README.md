@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0200-number-of-islands) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0450-delete-node-in-a-bst) |
