@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Union-Find
