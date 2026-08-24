@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1710-maximum-units-on-a-truck) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -418,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
