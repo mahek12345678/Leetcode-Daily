@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0198-house-robber) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
