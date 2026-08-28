@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+| [0796-rotate-string](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [1041-robot-bounded-in-circle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1041-robot-bounded-in-circle) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
