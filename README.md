@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search Tree
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0938-range-sum-of-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Monotonic Stack
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Pigeonhole Principle
 |  |
