@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1710-maximum-units-on-a-truck) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search Tree
