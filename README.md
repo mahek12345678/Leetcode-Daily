@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
+| [2906-construct-product-matrix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2906-construct-product-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
+| [2906-construct-product-matrix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2906-construct-product-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0994-rotting-oranges) |
+| [2906-construct-product-matrix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2906-construct-product-matrix) |
 ## Graph Theory
 |  |
 | ------- |
