@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0069-sqrtx) |
@@ -463,5 +465,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
