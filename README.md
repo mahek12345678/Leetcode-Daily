@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0232-implement-queue-using-stacks) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0189-rotate-array) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [1041-robot-bounded-in-circle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1041-robot-bounded-in-circle) |
