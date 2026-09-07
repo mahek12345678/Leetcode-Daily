@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0073-set-matrix-zeroes) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0152-maximum-product-subarray) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0055-jump-game) |
 | [1710-maximum-units-on-a-truck](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1710-maximum-units-on-a-truck) |
 ## Trie
 |  |
