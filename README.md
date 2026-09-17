@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [0796-rotate-string](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0796-rotate-string) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0067-add-binary) |
 | [1041-robot-bounded-in-circle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1041-robot-bounded-in-circle) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Monotonic Queue
