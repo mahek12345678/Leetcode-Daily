@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
