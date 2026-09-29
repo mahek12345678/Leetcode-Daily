@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [1041-robot-bounded-in-circle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1041-robot-bounded-in-circle) |
+| [1922-count-good-numbers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1922-count-good-numbers) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
