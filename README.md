@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1041-robot-bounded-in-circle) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
 | ------- |
