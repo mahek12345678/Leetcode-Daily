@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1041-robot-bounded-in-circle) |
