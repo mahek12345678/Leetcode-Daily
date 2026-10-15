@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0621-task-scheduler) |
 | [1710-maximum-units-on-a-truck](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1710-maximum-units-on-a-truck) |
 ## Stack
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0875-koko-eating-bananas) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0621-task-scheduler) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
@@ -504,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0055-jump-game) |
+| [0621-task-scheduler](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0621-task-scheduler) |
 | [1710-maximum-units-on-a-truck](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1710-maximum-units-on-a-truck) |
 ## Trie
 |  |
