@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2906-construct-product-matrix) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Pigeonhole Principle
 |  |
 | ------- |
