@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0542-01-matrix) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahek12345678/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0455-assign-cookies) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1710-maximum-units-on-a-truck) |
