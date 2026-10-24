@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1710-maximum-units-on-a-truck) |
 ## Stack
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1200-minimum-absolute-difference](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
