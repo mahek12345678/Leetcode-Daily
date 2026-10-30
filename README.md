@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0306-additive-number) |
 | [0796-rotate-string](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mahek12345678/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/mahek12345678/Leetcode-Daily/tree/master/0306-additive-number) |
 ## Linked List
 |  |
 | ------- |
